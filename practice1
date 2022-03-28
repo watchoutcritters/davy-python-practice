@@ -1,1 +1,6 @@
-
+.git
+.gitignore 
+LICENSE
+README.rst
+davy-python-practice/__init__.py
+davy-python-practice/davy-python-practice.py
